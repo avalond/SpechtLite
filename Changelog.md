@@ -1,3 +1,13 @@
+## 0.4.9
+
+### Fixed
+- Correctly handle empty line in list files.
+
+## 0.4.8
+
+### Fixed 
+- Parse error when HTTP header contains non-ascii characters.
+
 ## 0.4.7
 
 ### Added
